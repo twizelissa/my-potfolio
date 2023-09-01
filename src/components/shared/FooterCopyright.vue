@@ -23,7 +23,7 @@ export default {
 			>
 				{{ projectName }}
 			</a>
-			. Developed by
+			. Developed by Elissa 
 		
 		</div>
 	</div>
